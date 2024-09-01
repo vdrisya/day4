@@ -1,0 +1,68 @@
+body{
+    background-color:aquamarine;
+    background-size: cover;
+}
+#image_1{
+    width: 30%;
+    height: auto;
+    
+
+    }
+#A1{
+    color: blue;
+}
+#A2{
+    color: brown;
+}
+#A3{
+    color: blueviolet;
+}
+.grp1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px dotted chocolate;
+    position: absolute;}
+    .grp2{ 
+        position: relative;
+    }
+
+
+.grp3 {
+    position: absolute;
+    margin-left: 3%;
+    margin-top: -18%;
+    border: 5px solid chartreuse;
+}
+.grp3 p{
+    color: green;
+    font-size: large;
+}
+
+.B1{
+    list-style-type: circle;
+    td{
+        border:5px solid chartreuse;
+    }
+}
+table{
+    border: 2px solid crimson;
+    border-bottom-color: blue;
+    border-collapse: collapse;
+    margin: 20% 40% 20% 50%;
+}
+td{
+    border:5px solid white;
+
+
+}
+table .R{
+    border-bottom: 5px solid red;
+}
+table .C{
+    
+    border-bottom: 5px solid cyan;
+
+table td{
+  border: 10px solid red;
+  padding: 50px 40px;  
+
+}
